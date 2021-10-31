@@ -5,6 +5,6 @@ Encode: utf-8.
 
 A tiny tool for Markdown when you need to insert an image to .md file. Don't use it directly! You should modify the code until it suits your environment, such as file path.
 
-±àÂë£ºUTF-8¡£
+ç¼–ç ï¼šUTF-8ã€‚
 
-Ò»¸öÓÃÓÚMarkdown²åÈëÍ¼Æ¬µÄºÜ¼òµ¥µÄ¸¨Öú¹¤¾ß¡£ ÇëÎğÖ±½ÓÊ¹ÓÃ£¡ ÄãÒª°ÑÕâ¸ö´úÂë¸ÄµÃÊÊºÏÄã×Ô¼ºµÄ»·¾³£¬±ÈÈçÂ·¾¶Ê²Ã´µÄ£¬Òª¸Ä³ÉÄã×Ô¼ºĞèÒªµÄ¡£
+ä¸€ä¸ªç”¨äºMarkdownæ’å…¥å›¾ç‰‡çš„å¾ˆç®€å•çš„è¾…åŠ©å·¥å…·ã€‚ è¯·å‹¿ç›´æ¥ä½¿ç”¨ï¼ ä½ è¦æŠŠè¿™ä¸ªä»£ç æ”¹å¾—é€‚åˆä½ è‡ªå·±çš„ç¯å¢ƒï¼Œæ¯”å¦‚è·¯å¾„ä»€ä¹ˆçš„ï¼Œè¦æ”¹æˆä½ è‡ªå·±éœ€è¦çš„ã€‚
